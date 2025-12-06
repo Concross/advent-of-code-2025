@@ -1,0 +1,2 @@
+# Place your Advent of Code input here
+# Visit https://adventofcode.com/2025/day/X to get your puzzle input
